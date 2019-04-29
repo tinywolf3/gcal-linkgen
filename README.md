@@ -2,6 +2,8 @@
 
 구글 캘린더의 일정을 추가하는 링크를 생성합니다.
 
+![Picture](https://repository-images.githubusercontent.com/184148851/a13e9400-6b1c-11e9-8c97-7238a3933902)
+
 ### Demo
 
 [Demo](https://tinywolf3.github.io/gcal-linkgen/gcal-linkgen.html) : https://tinywolf3.github.io/gcal-linkgen/gcal-linkgen.html
