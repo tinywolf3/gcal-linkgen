@@ -4,7 +4,7 @@
  * Licensed under MIT
  */
 
- // 구글 캘린더 일정 링크 만들기
+// 구글 캘린더 일정 링크 만들기
 //	참고 링크: https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/blob/master/services/google.md
 function makeGcalUrl( title_
 	, startDateTime_, endDateTime_, allDayOpt_
