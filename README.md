@@ -41,7 +41,7 @@ let url = makeGcalUrl( "낮잠자기"
   , "aa@test.com, bb@test.com", "tinywolf@g9.work" );
 ```
 
-## 옵션 설명
+## 매개변수 설명
 
 ### title_
 
