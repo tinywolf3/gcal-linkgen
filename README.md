@@ -32,7 +32,7 @@ function makeGcalUrl( String title_
 아래와 같이 사용합니다.
 
 ```javascript
-let url = makeGcalUrl( "낮잠자기"
+let calurl = makeGcalUrl( "낮잠자기"
   , new Date(2019, 3, 30, 12, 30), new Date(2019, 3, 30, 13, 0), false
   , 1, 5, null
   , "Asia/Seoul"
